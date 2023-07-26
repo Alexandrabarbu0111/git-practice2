@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVALabs/Ex02_Objects/Ex02_Objects.iml" filepath="$PROJECT_DIR$/JAVALabs/Ex02_Objects/Ex02_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVALabs/Ex03_Inheritance/Ex03_Inheritance.iml" filepath="$PROJECT_DIR$/JAVALabs/Ex03_Inheritance/Ex03_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVALabs/GreetFriend/GreetFriend.iml" filepath="$PROJECT_DIR$/JAVALabs/GreetFriend/GreetFriend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JAVALabs/HelloWorldAgain/HelloWorldAgain.iml" filepath="$PROJECT_DIR$/JAVALabs/HelloWorldAgain/HelloWorldAgain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/git-practice2.iml" filepath="$PROJECT_DIR$/.idea/git-practice2.iml" />
+    </modules>
+  </component>
+</project>
